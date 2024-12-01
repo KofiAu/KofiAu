@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KofiAu
 - 👀 I’m interested in information technology
 - 🌱 I’m currently learning IT (networking)
-- 💞️ I’m looking to collaborate on ...
 - ⚡ Fun fact: i loooove coffee and cats
 
 <!---
